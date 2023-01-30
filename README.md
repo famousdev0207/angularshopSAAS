@@ -1,3 +1,2 @@
-# angularshopSAAS
 
-#invite
+# angularshopSAAS project
